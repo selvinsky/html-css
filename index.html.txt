@@ -2,9 +2,9 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Мой первый проект</title>
+    <title>мой первый проект</title>
 </head>
 <body>
-    <h1>Привет, GitHub!</h1>
+    <h1>привет, GitHub!</h1>
 </body>
 </html>
